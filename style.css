@@ -7,12 +7,12 @@
     justify-content: center;
     align-items: center;
     height: 70px;
-    background-color: red;
+    background-color: rgb(29, 14, 14);
     color: white;
     font-size: 70px;
     border-bottom: 2px solid black;
-    border-top: 2px solid black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-top: 2px solid rgb(138, 129, 129);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .footer{
     display: flex;
@@ -20,7 +20,7 @@
     position: fixed;
     height: 40px;
     width: 100%;
-    background-color: red;
+    background-color:rgb(29, 14, 14);
     color: white;
     font-size: 23px;
     justify-content: center;
@@ -47,7 +47,7 @@
     width: 200px;
 }
 .img1{
-    background: url(img.jpg) center/cover;
-    height: 100px;
-    width: 100px;
+    background: url(nft.png) center/cover;
+    height: 180px;
+    width: 150px;
 }
